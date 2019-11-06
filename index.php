@@ -366,7 +366,7 @@ echo '
 
 <div id="center">
 
-<a href="http://tokencc.herokuapp.com/" target="_blank"><input class="button" type="button" value="GeT Token"> </a> <a href="https://facebook.com/100006820992260" target="_blank"><input class="button" type="button" value="My Facebook"></a></center>
+<a href="http://tokencc.herokuapp.com/" target="_blank"><input class="button" type="button" value="GeT Token"> </a> <a href="https://facebook.com/deadpoolx00" target="_blank"><input class="button" type="button" value="My Facebook"></a></center>
 
 </br> </br>
 
