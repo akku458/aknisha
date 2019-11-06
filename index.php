@@ -360,7 +360,7 @@ echo '
 
 <div class="css">
 
-<a target="_blank"  href="https://www.facebook.com/deadpoolx00"><img src="123.jpg" alt="" style="border-radius: 50px; border: 2px; box-shadow: 0px 0px 15px 7px 	#ff0000; padding: 0px;" width="300" height="300" title=""/></a>
+<a target="_blank"  href="https://www.facebook.com/deadpoolx00"><img src="123.png" alt="" style="border-radius: 50px; border: 2px; box-shadow: 0px 0px 15px 7px 	#ff0000; padding: 0px;" width="300" height="300" title=""/></a>
 
 </div> </br>
 
